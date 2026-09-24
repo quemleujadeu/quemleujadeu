@@ -5,19 +5,7 @@
 Me chamo Nathan garriel santos, tenho 15 anos e sou natural do Paraná. sou um boytrans, prefiro homens mesmo. Atualmente, estou surtando por nota. Sou apaixonado por desenhos, sou artista e compartilho meus gostos com amigos compativeis,onde me sinto mais a vontade apesar de inseguranças, e também através de jogos ou rede sociais, com o perfil do tktk chamado "[blot_nathan}" até onde lembro kk
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+        <img>
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
